@@ -1,39 +1,7 @@
 
 
 
-## Sorting Algorithms
 
-
-## Searching Algorithms
-
-
-## Data Structures
-
-
-## Simple Games in Python
-
-
-## OOP
-
-
-## Trees
-
-
-
-## Graphs
-
-## Scripts
-
-## Python Concepts
-
-
-
-## Numpy
-
-## Mini Projects
-
-
-## Random Python Programs
 
 
 # Donation

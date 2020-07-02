@@ -18,6 +18,21 @@ Gurgaon, India.<br />
 7. [Numpy Mathematical Functions]
 8. [Numpy Arithmetical Operations]
 
+## Scripts
+
+1. [Create Multiple Folders]
+2. [Count files]
+3. [Get File sizes]
+4. [Find if a file exists]
+5. [Folder organization]
+6. [Get Dictionary Meaning]
+7. [Sending Mail]
+8. [Counting Number of Words]
+9. [Birthday Reminder]
+10. [Script to download tutorial from tutorials point]
+11. [Script to check email in your terminal]
+12. [Script to find devices connected to Network]
+13. [Script to create metadata for a file]
 
 
 # Donation

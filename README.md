@@ -35,6 +35,24 @@ Gurgaon, India.<br />
 13. [Script to create metadata for a file]
 
 
+## Sorting Algorithms
+
+1. [Selection Sort]
+2. [Bubble Sort]
+3. [Insertion Sort]
+4. [Merge Sort]
+5. [Quick Sort]
+6. [Counting Sort]
+7. [Bucket Sort]
+8. [Shell Sort]
+9. [Heap Sort]
+
+## Searching Algorithms
+
+1. [Sequential Search]
+2. [Binary Search]
+3. [N-ary Search]
+
 # Donation
 
 If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)

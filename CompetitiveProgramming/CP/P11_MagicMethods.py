@@ -31,9 +31,9 @@ class Employee(object):
 
 if __name__ == '__main__':
     sahil = Employee('sahil', 'sahil', 1000)
-    kaavya = Employee('kaavya','Banerji', 2000)
+    kaavya = Employee('kaavya','kaavya', 2000)
     print(Omkar)                # Full Name:Sahil saini (This output because of __str__ method overloading)
-    print(Jagdish)              # Full Name:Kaavya banerji
+    print(Jagdish)              # Full Name:Kaavya kaavya
     print(Omkar + Jagdish)      # 3000 (This output because of __add__ method overloading)
     print(Omkar * Jagdish)      # 2000000 (__mul__)
     print(int(Omkar))           # 1000 (__int__)
